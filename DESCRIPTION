@@ -6,7 +6,7 @@ Title: An R package for identifing complex genomic region and their
 Version: 0.1.6
 Authors@R: person("Xiaoju", "Hu", email = "xiaojuhu13@gmail.com",
                   role = c("aut", "cre"))
-Description: Complex genomic rearrangements are common rare in normal tissues but a majority of the tumor genomes have extensive rearrangements, including complex events. Until other classes of genomic alterations, complex rearrangements in tumors are least characterized due to technological limitations, which has led to debates about their architectures and etiologies. Here, we assess the application of genome-graph concept utilizing deep coverage optical mapping genome sequencing.
+Description: Genomic instability and mutagenesis are hallmarks of cancer, and most tumors have rearranged genomes. Most genomic rearrangements in tumors are structurally simple, but complex genomic rearrangements (CGR) i.e. genomic reorganization events involving multiple intertwined structural rearrangements are common in all major cancer types. We utilized optical mapping to identify genomic rearrangements in cancer genomes, including those that are complex. we developed omcplR to resolve the CGR architectures and predict their genesis using the genome-graph framework.
 Imports: AnnotationDbi, GenomicFeatures, GenomicRanges, RColorBrewer,
         circlize, data.table, dplyr, gtools, reshape2, stringr, tidyr
 License: What license is it under?
@@ -14,6 +14,6 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2023-08-22 17:55:22 UTC; xh217
+Packaged: 2026-02-22 17:55:22 UTC; xh217
 Author: Xiaoju Hu [aut, cre]
 Maintainer: Xiaoju Hu <xiaojuhu13@gmail.com>
