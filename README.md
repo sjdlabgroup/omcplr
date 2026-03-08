@@ -1,5 +1,5 @@
 # omcplr
-An R package for identifing genomic regions harboring complex genomic rearrangements and deconstructing their hierarchical organization using optical genome mapping technology.
+An R package for identifing genomic regions harboring complex genomic rearrangements and deconstructing their hierarchical organization based on the optical genome mapping technology.
 
 ## Getting Started
 
