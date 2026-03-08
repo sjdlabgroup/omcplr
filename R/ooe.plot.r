@@ -1,4 +1,4 @@
-#' Plotting the visual representation of the order of complex events
+#' Plotting the visual representation of the order of complex events.
 #' This function generates a visual representation of the order of complex events using the bnlearn package.
 #' It creates a plot where nodes represent variables (complex events) and their relationships are depicted through directed edges.
 #' Optional highlighting of specific nodes is supported.
