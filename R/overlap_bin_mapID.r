@@ -1,4 +1,4 @@
-#' Bin the mapping mapID contig with a resolution of 10kb
+#' Bin the mapping mapID contig with a resolution of 10kb.
 #' This function takes genomic bin and xmap data and performs binning with a specified window size.
 #' @param genome_bin A file path or data frame containing genomic bin information with columns "chr", "start", and "end".
 #' @param xmap A file path or data frame containing xmap information with columns "mapID", "chr", "start_q", "end_q", "start", "end", and "strand".
