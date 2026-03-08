@@ -1,4 +1,4 @@
-#' Leveraging bnlearn for inferring the order of complex events
+#' Leveraging bnlearn for inferring the order of complex events.
 #' This function uses the bnlearn package to infer the order of complex events based on provided data.
 #' It constructs a Bayesian network using the given complex events, breakpoints, and coverage data to determine their relationships.
 #' @param cplx_list A list containing information about complex events, including blocks and contigs.
