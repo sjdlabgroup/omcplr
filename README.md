@@ -1,12 +1,12 @@
 # omcplr
-An R package for identifing complex genomic region and their hierarchical organization from optical mapping genome sequencing
+An R package for identifing genomic regions harboring complex genomic rearrangements and deconstructing their hierarchical organization using optical genome mapping technology.
 
 ## Getting Started
 
 We recommend an R version 3.6.0 or more recent in order to use the package.
 
 ## Introduction
-Complex genomic rearrangements are common rare in normal tissues but a majority of the tumor genomes have extensive rearrangements, including complex events. Until other classes of genomic alterations, complex rearrangements in tumors are least characterized due to technological limitations, which has led to debates about their architectures and etiologies. Here, we assess the application of genome-graph concept utilizing deep coverage optical mapping genome sequencing.
+Genomic instability and mutagenesis are hallmarks of cancer, and most tumors have rearranged genomes. Most genomic rearrangements in tumors are structurally simple, but complex genomic rearrangements (CGR) i.e. genomic reorganization events involving multiple intertwined structural rearrangements are common in all major cancer types. We utilized optical mapping to identify genomic rearrangements in cancer genomes, including those that are complex. we developed omcplR to resolve the CGR architectures and predict their genesis using the genome-graph framework. 
 
 ## Availability and Installation
 The development version of omcplr package is available at https://github.com/sjdlabgroup/omcplr and can be installed as
