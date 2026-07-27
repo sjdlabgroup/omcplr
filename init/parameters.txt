@@ -1,9 +1,0 @@
-parameter                value
-birth_rate               0.25
-death_rate               0.08
-dna_break_rate           0.01
-driver_probability       0.02
-output_dir               sim_run
-max_time_steps           30
-max_cells                100000
-report_all_timepoints    True
