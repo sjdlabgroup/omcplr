@@ -1,0 +1,11 @@
+parameter                value
+birth_rate               0.30
+death_rate               0.05
+dna_break_rate           0.02
+driver_probability       0.01
+output_dir               sim_run
+max_time_steps           30
+max_cells                100000
+report_all_timepoints    True
+one_step_clustered_event_probability 0.00
+one_step_clustered_event_complexity 5
