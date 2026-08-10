@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 # ==============================================================================
-# Pipeline Name: Evolutionary Dynamics & Clustered Genomic Alterations Simulation
 # Description: Executes a complete simulation run of clonally amplified genomic 
 #              alterations under distinct constraints, infers complex clustered 
 #              events with configurable noise and dropout factors, and generates 
